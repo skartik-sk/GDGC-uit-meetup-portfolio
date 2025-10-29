@@ -31,17 +31,15 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Install dependencies
-        working-directory: ./react-portfolio
         run: npm install
 
       - name: Build
-        working-directory: ./react-portfolio
         run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./react-portfolio/dist
+          path: ./dist
 
   deploy:
     environment:
