@@ -1,0 +1,162 @@
+{
+  "personal": {
+    "name": "John Doe",
+    "title": "Software Engineer & Product Designer",
+    "tagline": "Crafting Digital Solutions",
+    "email": "john.doe@email.com",
+    "location": "San Francisco",
+    "yearsOfExperience": "5+",
+    "bio": "I build elegant and efficient software solutions that bridge the gap between user needs and technical innovation. Passionate about creating intuitive, user-centric digital experiences.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCPJN1KiNEPr0FZzUcvr0kKyOuBoLAWOwRzaYvjx1GcigH9bTPafKANa_IOVruMpuXAapfcgUZxLdeKLtEInarZ198VVMl5l2kxE3yDqkBHrVPY8AJhO7eOB0m_JGJKgQZ1KbdablyBed-VfU79T9A3R12KwG2_7vl_PqW2aDfMeeOrOrtejYKoWUYZGgDJwebe-BWwEexncTYe8knNcjhyI3cTG4XdmdI8jmtgmscMwCvFY870Qf_hh0u9TxhHQMlcO8jvqPhVkz4",
+    "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuB8Qjfe-SsJhG29Y3ruEcnhjZ9tc8EgAIz0ErtXskvzyJsz6iiAIN2baEN7oi4aKdcqCR5r8DpIQ43oHuSxVrqEKHAp4Ei6cR5S_yRB_BLzlXsRMatbFmiTbdYgCOcQWsyHQbJ9PH3eTSDLkLpyk8mPLPbIj1lr0gs_2LYiogNzeKQep8-_twGTaijSA4IAgWWA5uQnskni49WI9m5cX_ocpbQ1k_qYDTP6TH5E2vni99jl7AFg9DXCTper74NuhpyBbRd73aAvdfI"
+  },
+  "navigation": [
+    { "label": "Home", "href": "#home" },
+    { "label": "About", "href": "#about" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Testimonials", "href": "#testimonials" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "skills": {
+    "title": "My Toolbox",
+    "subtitle": "A collection of technologies I use to build, design, and deploy modern web applications.",
+    "categories": [
+      {
+        "name": "Frontend",
+        "items": [
+          { "name": "React", "icon": "code" },
+          { "name": "Next.js", "icon": "layers" },
+          { "name": "TypeScript", "icon": "data_object" },
+          { "name": "Framer Motion", "icon": "animation" },
+          { "name": "Tailwind CSS", "icon": "css" }
+        ]
+      },
+      {
+        "name": "Backend",
+        "items": [
+          { "name": "Node.js", "icon": "dns" },
+          { "name": "PostgreSQL", "icon": "database" },
+          { "name": "GraphQL", "icon": "api" }
+        ]
+      },
+      {
+        "name": "Tools & Design",
+        "items": [
+          { "name": "Figma", "icon": "design_services" },
+          { "name": "Git", "icon": "terminal" },
+          { "name": "Docker", "icon": "deployed_code" }
+        ]
+      },
+      {
+        "name": "Cloud & Web3",
+        "items": [
+          { "name": "AWS", "icon": "cloud" },
+          { "name": "Vercel", "icon": "hub" },
+          { "name": "Solidity", "icon": "token" }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Selected Work",
+    "subtitle": "A collection of my projects in software engineering and product design.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Major Web Application",
+        "description": "A brief description of its function and its significant business impact. This project demonstrates my skills in full-stack development and UI/UX design.",
+        "technologies": ["React", "Next.js", "Figma"],
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDb6V2bx0DFoHeKyWCFBAWez9wpF7fjtqqbPO-ITNKhf1jJ5_ihEydMDY33i6zjlERXNAKi8RnWDEOaqsFXgln5Z_PpPiV2TWdNz2mL7bowI5Ffrx-LdISNcEkJ_P2ISJKm03enzGzpTGmMur18M6oq2MIbXKwx3D9t-PxTUdsrgdXBrQlJ84iyfz-bMLTIFUySTz9ABKR7qEFTus_sA_ae8nJWKrlSUkeQRNPuvAhO3uYnyWxGYGYOwXxoTpzGhHilQbYQyYYO538",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "title": "Mobile App UX Design",
+        "description": "A summary of the UX challenges solved for this intuitive mobile app. This project focuses on mobile application design and backend architecture.",
+        "technologies": ["Figma", "Swift", "Framer Motion"],
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAVLmW97NdxQI0YvW3gt8_TicXE8XfAu8KPiO1YFO6pb5mLoyZk7nEh3zZWWCh0qu8xCHSwHqq5bLJzwM3g0DWXnhjkCeGL274aqJP4n_X1-CK3ECOyGdGaU9KTrHfL_v_KxNwuj5-G9xYwyxSmXw_OXS-9FIl6OXXupav17G338r5tu9Pzdu9jRQrfbKGbuGozdLzZO-2QEnHQS1a40GEFucuB-078N9YXA2Vc7tZgDebbLlNy-NUWvPrwHrgwWZfPtRJXP-v53CU",
+        "link": "#"
+      },
+      {
+        "id": 3,
+        "title": "E-commerce Platform",
+        "description": "A comprehensive e-commerce solution with real-time inventory management and payment processing capabilities.",
+        "technologies": ["Node.js", "PostgreSQL", "Stripe"],
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCpWU4I0eff144n-jrRUO7oFcRMlaTqHCstVVuSDS8_Ly0jQjW5z1_giLuB_GheNqz1EjWfX6ELKCdeGvj-YXslAnrCw1SU4W1y3tVRfSE_9U2prScjarL608lCbs1tH1GdhQhmx-we7vDimaomhMIdLNBZarI6mMqQevvFgvKekKotag0Q7oRLGNOvgcUzNLbR5-czCjqBpLPeX6Wk42h8-pIC0BAAwhtbLkXL7nwrAPBvm5I6rnlUiptUJkA0WJIDC92vc1ZI75I",
+        "link": "#"
+      },
+      {
+        "id": 4,
+        "title": "AI-Powered Dashboard",
+        "description": "An analytics dashboard with machine learning insights for data-driven decision making.",
+        "technologies": ["React", "Python", "TensorFlow"],
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBuexkl3Pe3Ghk9AIiclLLBH_P6quZSCIASCaUJYoSrNLKEfNC3UeyPW_Gzjfay9kqugmLgHhAzPco5twIODp55J_Lf0bzF-aHOEOVCMZ-GCljWl4lr0hB1rDi4oPESACmxtmVumHQd6c2wcdXfH4oQzdRQSt8hSjKiUAjRQsd4BmV4_NJvM23EiZK4xqB4Vo7Vl9A6AcmVAjimVW4akp2KwrkAq89WHELmDNCCdnStU3fsqgPMmj6V4XdGAaDbD1lnqJ6HL3jnTg0",
+        "link": "#"
+      },
+      {
+        "id": 5,
+        "title": "Social Media Platform",
+        "description": "A modern social networking platform with real-time messaging and content sharing features.",
+        "technologies": ["Vue.js", "Firebase", "WebRTC"],
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDb6V2bx0DFoHeKyWCFBAWez9wpF7fjtqqbPO-ITNKhf1jJ5_ihEydMDY33i6zjlERXNAKi8RnWDEOaqsFXgln5Z_PpPiV2TWdNz2mL7bowI5Ffrx-LdISNcEkJ_P2ISJKm03enzGzpTGmMur18M6oq2MIbXKwx3D9t-PxTUdsrgdXBrQlJ84iyfz-bMLTIFUySTz9ABKR7qEFTus_sA_ae8nJWKrlSUkeQRNPuvAhO3uYnyWxGYGYOwXxoTpzGhHilQbYQyYYO538",
+        "link": "#"
+      },
+      {
+        "id": 6,
+        "title": "Blockchain DApp",
+        "description": "Decentralized application built on Ethereum with smart contract functionality.",
+        "technologies": ["Solidity", "Web3.js", "Ethereum"],
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAVLmW97NdxQI0YvW3gt8_TicXE8XfAu8KPiO1YFO6pb5mLoyZk7nEh3zZWWCh0qu8xCHSwHqq5bLJzwM3g0DWXnhjkCeGL274aqJP4n_X1-CK3ECOyGdGaU9KTrHfL_v_KxNwuj5-G9xYwyxSmXw_OXS-9FIl6OXXupav17G338r5tu9Pzdu9jRQrfbKGbuGozdLzZO-2QEnHQS1a40GEFucuB-078N9YXA2Vc7tZgDebbLlNy-NUWvPrwHrgwWZfPtRJXP-v53CU",
+        "link": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Words from colleagues",
+    "subtitle": "Hear what others have to say about my work and collaboration.",
+    "items": [
+      {
+        "id": 1,
+        "name": "Jane Doe",
+        "position": "Product Manager at TechCorp",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC3Mc324zLDXeGko2j6QdmUbYCimVEmAzPu1n_Uy0H6pphpmtyT_hlKmNPB5s9kgQYL-kBmNbNixPZR8qD5zNEeMDb1WQgwNHjrM__44Tj29eYHdasqFn9aagtj8w38u9Oxqg77BVsLjgFBOHQoivZBM-hupS7Mk6m6oAOatyEb-Z43AftvmYARKaATVTjFYmplBpE5KoiLoEnhKqG5csyZDy72ia6NRtWF0VWQCZUHk_j-DUjXKBgd954IokMg5sLGBhO3nqFx_4g",
+        "quote": "An exceptional engineer with a keen eye for design. Their ability to bridge the gap between technical implementation and user experience is unparalleled."
+      },
+      {
+        "id": 2,
+        "name": "Sam Smith",
+        "position": "Lead Developer at Innovate Inc.",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC-vqT6TIYUl_CnY6x3-bmfscjNTmZ31q4sMbJAitLafjbo1KaaaJeKIR4-AdNdQNBkr1uD2r4EOrB3Xb8geIfk8sNIfxLHzceIn6aPiDSB70UqSLLk47IVdfrSt_JyTn8V1q6lYOXScHa8k7S383QWWPiyXX_TZ0R-AXKRsTDqt5lDYcCiwzY8nMco7CDplVAvKSpwA4-ez-Y02wwEN0a81KyJi_1b0EBqD2TTRDv2be4KaZoGQbrixQmN3jinsKa0rH22Fh9fstw",
+        "quote": "Working with them was a pleasure. A proactive problem-solver and a fantastic collaborator who elevates the entire team's performance."
+      },
+      {
+        "id": 3,
+        "name": "Emily White",
+        "position": "UX Lead at Creative Solutions",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAYsDsRYKibNIYX3C47aW5mUGwaG29V9UA-J73QQRIWLQ5KwyqQwPcGV-GQo6U-a1RUA_3fTSOcbulO4aniufFjWQq2Zpy8ZzxM8BmAhttAmlSzgS96gKGCqfBiqUpUxfSGwU8RGdJ01Svsn9Zo_mr-1qIHtELt2QBpeUGcCzG8GH9Bj8lJHgtcC1UrI2Uu-KWxOmr8CPluYFeEjzA5sRjBCuGoijkkrS5Qp6N9SNjEQdWavB_UaU1ioQv9cbNdGnu1iTSGQCwnyhU",
+        "quote": "The product's success is a direct result of their dedication and innovative design solutions. I wouldn't hesitate to work with them again."
+      }
+      , {
+        "id": 3,
+        "name": "Emily White",
+        "position": "UX Lead at Creative Solutions",
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAYsDsRYKibNIYX3C47aW5mUGwaG29V9UA-J73QQRIWLQ5KwyqQwPcGV-GQo6U-a1RUA_3fTSOcbulO4aniufFjWQq2Zpy8ZzxM8BmAhttAmlSzgS96gKGCqfBiqUpUxfSGwU8RGdJ01Svsn9Zo_mr-1qIHtELt2QBpeUGcCzG8GH9Bj8lJHgtcC1UrI2Uu-KWxOmr8CPluYFeEjzA5sRjBCuGoijkkrS5Qp6N9SNjEQdWavB_UaU1ioQv9cbNdGnu1iTSGQCwnyhU",
+        "quote": "The product's success is a direct result of their dedication and innovative design solutions. I wouldn't hesitate to work with them again."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's build together!!",
+    "subtitle": "Have a project in mind or just want to say hi? I'd love to hear from you. Drop me a line below or connect on social media."
+  },
+  "social": [
+    { "name": "GitHub", "icon": "code", "url": "#" },
+    { "name": "LinkedIn", "icon": "business_center", "url": "#" },
+    { "name": "Twitter", "icon": "close", "url": "#" },
+    { "name": "Instagram", "icon": "photo_camera", "url": "#" }
+  ],
+  "footer": {
+    "copyright": "© 2024 John Doe. All Rights Reserved."
+  }
+}
