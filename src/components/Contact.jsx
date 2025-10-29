@@ -61,7 +61,7 @@ const Contact = ({ contact, personal, social }) => {
       </svg>
 
       <div className="relative z-10 mx-auto w-full max-w-6xl px-6 py-24 sm:py-32">
-        <div className="grid grid-cols-1 gap-16 lg:grid-cols-2 lg:gap-8">
+        <div className="grid grid-cols-1 gap-16 ">
           {/* Left Side - Info */}
           <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
             <h2 className="text-4xl font-black tracking-tighter text-white sm:text-5xl">
